@@ -54,7 +54,7 @@ To run the notebooks, you will need to have Python 3 and the following libraries
    git clone https://github.com/yourusername/mars-news-challenge.git
    cd mars-news-challenge
 
-Results
+### Results
 The analysis provides insights into:
 
 The coldest and warmest months on Mars at Curiosity's location.
