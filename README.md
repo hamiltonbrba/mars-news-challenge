@@ -64,7 +64,7 @@ To run the notebooks, you will need to have Python 3 and the following libraries
    ```bash
    jupyter notebook
 
-4. Open part_1_mars_news.ipynb or part_2_mars_weather.ipynb to run the analysis.
+4. Open `part_1_mars_news.ipynb` or `part_2_mars_weather.ipynb` to run the analysis.
 
 ### Results
 The analysis provides insights into:
