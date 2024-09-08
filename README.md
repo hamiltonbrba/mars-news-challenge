@@ -46,7 +46,7 @@ To run the notebooks, you will need to have Python 3 and the following libraries
 - `splinter`
 - `jupyter`
 
-### Installation
+## Installation
 
 1. Clone the repository:
 
@@ -61,7 +61,7 @@ To run the notebooks, you will need to have Python 3 and the following libraries
 
 3. Open `part_1_mars_news.ipynb` or `part_2_mars_weather.ipynb` to run the analysis.
 
-### Results
+## Results
 The analysis provides insights into:
 
 - The coldest and warmest months on Mars at Curiosity's location.
