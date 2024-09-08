@@ -1,6 +1,6 @@
 # Mars Weather Data Analysis
 
-Module 11 Challenge - Mars News
+Module 11 Challenge - Mars News & Weather
 
 
 ## Table of Contents
