@@ -67,6 +67,6 @@ The analysis provides insights into:
 - The coldest and warmest months on Mars at Curiosity's location.
 - The months with the lowest and highest atmospheric pressure.
 - The estimated length of a Martian year in Earth days.
-- 
+
 Visualizations of temperature trends and pressure variations are included in the Jupyter Notebooks.
 
