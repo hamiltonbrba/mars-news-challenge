@@ -48,3 +48,10 @@ To run the notebooks, you will need to have Python 3 and the following libraries
 - `splinter`
 - `jupyter`
 
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/mars-news-challenge.git
+   cd mars-news-challenge
