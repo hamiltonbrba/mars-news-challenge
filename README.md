@@ -23,3 +23,10 @@ The project consists of two parts:
 2. **Part 2: Scrape and Analyze Mars Weather Data**  
    A scraper to collect weather data from the [Mars Temperature Data Site](https://static.bc-edx.com/data/web/mars_facts/temperature.html) and analyze the atmospheric conditions on Mars, including temperature trends, pressure variations, and the length of a Martian year.
 
+## Data Source
+
+The data used in this project comes from:
+
+- **Mars Temperature Data Site**: [https://static.bc-edx.com/data/web/mars_facts/temperature.html](https://static.bc-edx.com/data/web/mars_facts/temperature.html)  
+- **Mars News Site**: [https://static.bc-edx.com/data/web/mars_news/index.html](https://static.bc-edx.com/data/web/mars_news/index.html)
+
