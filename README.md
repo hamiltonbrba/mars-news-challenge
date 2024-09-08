@@ -54,6 +54,18 @@ To run the notebooks, you will need to have Python 3 and the following libraries
    git clone https://github.com/yourusername/mars-news-challenge.git
    cd mars-news-challenge
 
+2. Install the required libraries:
+
+   ```bash
+   pip install -r requirements.txt
+
+3. Open Jupyter Notebook:
+
+   ```bash
+   jupyter notebook
+
+4. Open part_1_mars_news.ipynb or part_2_mars_weather.ipynb to run the analysis.
+
 ### Results
 The analysis provides insights into:
 
