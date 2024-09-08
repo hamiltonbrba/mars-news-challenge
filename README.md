@@ -55,3 +55,12 @@ To run the notebooks, you will need to have Python 3 and the following libraries
    ```bash
    git clone https://github.com/yourusername/mars-news-challenge.git
    cd mars-news-challenge
+
+Results
+The analysis provides insights into:
+
+The coldest and warmest months on Mars at Curiosity's location.
+The months with the lowest and highest atmospheric pressure.
+The estimated length of a Martian year in Earth days.
+Visualizations of temperature trends and pressure variations are included in the Jupyter Notebooks.
+
