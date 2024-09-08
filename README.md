@@ -10,8 +10,6 @@ Module 11 Challenge - Mars News
 - [Code Source](#code-source)
 - [Installation and Usage](#installation-and-usage)
 - [Results](#results)
-- [License](#license)
-- [Contact](#contact)
 
 ## Project Description
 
