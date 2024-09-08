@@ -64,8 +64,8 @@ To run the notebooks, you will need to have Python 3 and the following libraries
 ### Results
 The analysis provides insights into:
 
-The coldest and warmest months on Mars at Curiosity's location.
-The months with the lowest and highest atmospheric pressure.
-The estimated length of a Martian year in Earth days.
+- The coldest and warmest months on Mars at Curiosity's location.
+- The months with the lowest and highest atmospheric pressure.
+- The estimated length of a Martian year in Earth days.
 Visualizations of temperature trends and pressure variations are included in the Jupyter Notebooks.
 
